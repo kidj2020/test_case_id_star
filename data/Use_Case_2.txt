@@ -1,0 +1,5 @@
+CIF|MonthlyIncome|FacilityType|Plafond|Outstanding|DueDate|FacilityStartDate|PercentageOfAnnualInterestRate|UsageType|Status|Tenor|Installment
+999999|23000000|Credit Card|10000000|8000000||36752|30.2| Consumption |Yes||800000
+999999|23000000|Credit Card|5000000|750000||42993|30.2| Consumption |Yes||75000
+999999|23000000|Personal Loan|15000000|13000000|45918|44457|17.8| Consumption |Yes|48|439058.91
+999999|23000000|Mortgage|780000000|615000000|47765|42265|7.8| Consumption |Yes|180|7364307.72

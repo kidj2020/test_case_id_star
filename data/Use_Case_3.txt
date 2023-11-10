@@ -1,0 +1,2 @@
+CIF|MonthlyIncome|Age|Gender|Occupation
+8888888|23000000|45|Male|Employee
